@@ -25,3 +25,11 @@ This repository contains a full-stack application to submit GIS requests via a w
 cd backend
 npm install
 ```
+## Folder Structure
+Update-GIS-Requests/
+│
+├─ frontend/ # React frontend application
+├─ backend/ # Express backend server
+├─ .env # Environment variables (should NOT be in GitHub)
+├─ .gitignore
+└─ README.md
